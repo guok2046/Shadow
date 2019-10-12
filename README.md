@@ -81,6 +81,4 @@ Shadow现有的代码满足的是我们自己的业务现在的需求。得益�
 Tencent Shadow采用`BSD 3-Clause License`，详见[LICENSE](LICENSE.txt)。
 
 
-http://pamailev27-alias.paicdom.local/EnterpriseVault/Search/htmlview.aspx?VaultId=132DB9E146419FC4BB1CD85EF321712471110000EVALIAS&SavesetId=201908085271458~201907240700140000~Z~901C15C177620E70383086F20D37A021&AttachmentId=1
 
-http://wiseapm.paic.com.cn/user/login
